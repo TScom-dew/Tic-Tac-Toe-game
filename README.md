@@ -16,7 +16,7 @@ A simple **C++ command-line Tic-Tac-Toe game** built as a learning project to pr
 ## Project Structure
 
 ```text
-tic-tac-toe/
+Tic-Tac-Toe-game/
 ├── CMakeLists.txt
 ├── include/
 │   ├── Board.h
@@ -28,8 +28,11 @@ tic-tac-toe/
 │   └── Game.cpp
 ├── app/
 │   └── main.cpp
-└── docs/
-    └── document.md
+├── docs/
+│   └── document.md
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## Technologies
