@@ -31,20 +31,23 @@ The project focuses on:
 ## Project Structure
 
 ```text
-tic-tac-toe/
-|__ CMakeLists.txt
-|__ include/
-|   |__ Board.h
-|   |__ Player.h
-|   |__ Game.h
-|__ src/
-|   |__ Board.cpp
-|   |__ Player.cpp
-|   |__ Game.cpp
-|__ app/
-|   |__ main.cpp
-|__ docs/
-    |__ document.md
+Tic-Tac-Toe-game/
+├── CMakeLists.txt
+├── include/
+│   ├── Board.h
+│   ├── Player.h
+│   └── Game.h
+├── src/
+│   ├── Board.cpp
+│   ├── Player.cpp
+│   └── Game.cpp
+├── app/
+│   └── main.cpp
+├── docs/
+│   └── document.md
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ---
